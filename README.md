@@ -1,5 +1,4 @@
 Hi 👋 My name is Omar Hanafi
-============================Full Stack web developer------------------------* 
 🌍  I'm based in Tunisia* 🖥️  See my portfolio at [Potfolio](http://skerrepy.github.io/portfolio)* ✉️  You can contact me at [omarhanaficontact@gmail.com](mailto:omarhanaficontact@gmail.com)*
 
 ### Skills
